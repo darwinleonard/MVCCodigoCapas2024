@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class Producto
+    internal class xxxxx
     {
-       
-        ///prueba xxxx
-
     }
 }
